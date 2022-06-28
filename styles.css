@@ -1,0 +1,8 @@
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: orangered;
+  color: white;
+  margin: 0 auto;
+}
